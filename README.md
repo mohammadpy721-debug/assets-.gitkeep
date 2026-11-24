@@ -202,6 +202,36 @@ A modern beauty e-commerce experience focused on elegant design and shopping fun
 
 </div>
 
+## 🏆 ACHIEVEMENTS | دستاوردها
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECTS-4_Featured-9333EA?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/STACK-Python_%26_Django-7c3aed?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/FOCUS-UI%2FUX-A855F7?style=for-the-badge&logo=figma"/>
+
+</div>
+
+---
+
+## ❓ FAQ | سؤال و جواب
+
+<details>
+<summary><b>چطور می‌تونم باهات همکاری کنم؟</b></summary>
+
+از طریق ایشوها یا پول‌ریکوئست در ریپوهام، یا پیام مستقیم در گیت‌هاب.
+
+</details>
+
+<details>
+<summary><b>روی چه تکنولوژی‌هایی کار می‌کنی؟</b></summary>
+
+بیشتر پایتون، جنگو، و طراحی رابط با HTML، CSS و JavaScript.
+
+</details>
+
+---
+
 ## 🔭 CURRENTLY | در حال حاضر
 
 <div align="center">
@@ -243,7 +273,7 @@ width="100%" alt="MMH Contribution Snake"/>
 </div>
 
 
-## 🌐 CONNECT WITH ME
+## 🌐 CONNECT WITH ME 🔗
 
 <a href="https://github.com/mohammadpy721-debug">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
