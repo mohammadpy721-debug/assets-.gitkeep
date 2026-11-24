@@ -250,3 +250,8 @@ width="100%" alt="MMH Contribution Snake"/>
 **DREAM BIG. CODE SMART. BUILD BEYOND LIMITS.**
 
 </div>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,6&height=120&section=footer&animation=twinkling" width="100%" alt="MMH Animated Footer"/>
+</div>
