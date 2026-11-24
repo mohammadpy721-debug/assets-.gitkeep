@@ -209,19 +209,15 @@ A modern beauty e-commerce experience focused on elegant design and shopping fun
 
 ## 📊 GITHUB STATISTICS
 
-
 <div align="center">
 
-<h2>📊 GITHUB STATISTICS</h2>
-<p>Performance • Consistency • Growth</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohammadpy721-debug&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C084FC&text_color=FFFFFF&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohammadpy721-debug&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadpy721-debug&layout=compact&theme=midnight-purple&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadpy721-debug&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=mohammadpy721-debug&theme=midnight-purple&hide_border=true" />
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadpy721-debug&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=A855F7" />
 
 </div>
 
