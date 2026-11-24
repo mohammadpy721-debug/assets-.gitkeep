@@ -143,19 +143,18 @@ Modern Beauty Store
 
 ## 📊 GITHUB STATISTICS
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C084FC&text_color=FFFFFF&rank_icon=github" />
+<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohammadpy721-debug&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C084FC&text_color=FFFFFF&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadpy721-debug&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" />
 
 <br/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=A855F7" />
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadpy721-debug&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=A855F7" />
 
 </div>
 
----
-
-<div align="center">
 
 ## 🐍 CONTRIBUTION SNAKE
 
