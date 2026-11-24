@@ -92,14 +92,6 @@ I enjoy turning ideas into modern, functional and beautiful applications.
 
 </div>
 
-### Languages & Frameworks
-
-<img src="https://skillicons.dev/icons?i=python,django,html,css,js,react,git,github,vscode&theme=dark&perline=5" />
-
-### Tools & Environment
-
-<img src="https://skillicons.dev/icons?i=linux,windows,figma,bootstrap,tailwind,sqlite,mysql,postgres&theme=dark&perline=5" />
-
 </div>
 
 ---
@@ -216,7 +208,7 @@ A modern beauty e-commerce experience focused on elegant design and shopping fun
 
 <br/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadpy721-debug&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=A855F7" />
+<img width="95%" src="https://streak-stats.demolab.com/?user=mohammadpy721-debug&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=A855F7" />
 
 </div>
 
