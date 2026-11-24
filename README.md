@@ -258,6 +258,28 @@ A modern beauty e-commerce experience focused on elegant design and shopping fun
 
 ---
 
+## 🧩 FEATURED: MAZE PATHFINDER | پروژه‌ی جدید
+
+<div align="center">
+
+<a href="https://github.com/mohammadpy721-debug/maze-pathfinder">
+  <img src="./assets/maze-preview.png" width="70%" alt="Maze Pathfinder preview"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/BFS-A*-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-Vanilla-A855F7?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+**ماز تصادفی + حل با BFS و A\*، با انیمیشن زنده**
+
+<a href="https://github.com/mohammadpy721-debug/maze-pathfinder">📂 Source</a> ·
+<a href="https://mohammadpy721-debug.github.io/maze-pathfinder/">🎮 Live demo</a>
+
+</div>
+
+---
+
 ## 📊 GITHUB STATISTICS
 
 <div align="center">
