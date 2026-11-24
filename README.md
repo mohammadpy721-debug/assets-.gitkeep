@@ -1,7 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,9,12&height=220&section=header&text=MMH&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mohammad%20Mehdi%20Hasanlou&descAlignY=60&descAlign=50"
-       width="100%"
-       alt="MMH Animated Header">
+  <picture>
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,9,12&height=220&section=header&text=MMH&fontSize=80&fontColor=1e1b4b&animation=fadeIn&fontAlignY=38&desc=Mohammad%20Mehdi%20Hasanlou&descAlignY=60&descAlign=50">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,9,12&height=220&section=header&text=MMH&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mohammad%20Mehdi%20Hasanlou&descAlignY=60&descAlign=50"
+         width="100%"
+         alt="MMH Animated Header">
+  </picture>
 </div>
 
 # 👾 MMH — Mohammad Mehdi Hasanlou
