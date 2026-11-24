@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/mmh-banner.jpg"
+  <img src="./assets/mmh-banner.png"
        width="100%"
        alt="MMH Developer Banner">
 </div>
