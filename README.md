@@ -109,55 +109,103 @@ I enjoy turning ideas into modern, functional and beautiful applications.
 
 ## 💜 FEATURED PROJECTS | پروژه‌های منتخب
 
+
+<div align="center">
+
+# 🚀 FEATURED PROJECTS
+### Selected Works by MMH
+
 </div>
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### 🌐 MMH PORTFOLIO
+<h3 align="center">🌐 MMH PORTFOLIO</h3>
 
-Personal Portfolio & Resume
+<p align="center">
+<img src="https://img.shields.io/badge/PROJECT-PORTFOLIO-9333EA?style=for-the-badge"/>
+</p>
 
-**Modern Web Design**
+A modern personal portfolio website showcasing skills, projects and developer identity.
+
+**Tech:** HTML · CSS · JavaScript
+
+<p align="center">
+<a href="https://github.com/mohammadpy721-debug/MMH-Portfolio">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### 🔐 MANA VPN
+<h3 align="center">🔐 MANA VPN</h3>
 
-VPN Management Project
+<p align="center">
+<img src="https://img.shields.io/badge/PROJECT-VPN-2563EB?style=for-the-badge"/>
+</p>
 
-**Python Development**
+A Python-based VPN service management project with Telegram bot integration.
+
+**Tech:** Python · Telegram Bot
+
+<p align="center">
+<a href="https://github.com/mohammadpy721-debug/MANA-VPN">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 </td>
 </tr>
+
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### 🏋️ PRO FIT
+<h3 align="center">🏋️ PRO FIT</h3>
 
-Fitness & Health Web App
+<p align="center">
+<img src="https://img.shields.io/badge/PROJECT-FITNESS-16A34A?style=for-the-badge"/>
+</p>
 
-**Web Application**
+A fitness platform for workout tracking, training management and health-focused tools.
+
+**Tech:** HTML · Tailwind CSS · JavaScript
+
+<p align="center">
+<a href="https://github.com/mohammadpy721-debug/PRO-FIT">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### 💄 NAZ BEAUTY
+<h3 align="center">💄 NAZ BEAUTY</h3>
 
-Modern Beauty Store
+<p align="center">
+<img src="https://img.shields.io/badge/PROJECT-E--COMMERCE-DB2777?style=for-the-badge"/>
+</p>
 
-**E-Commerce Development**
+A modern beauty e-commerce experience focused on elegant design and shopping functionality.
+
+**Tech:** Django · JavaScript · CSS
+
+<p align="center">
+<a href="https://github.com/mohammadpy721-debug/NAZ-BEAUTY">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 </td>
 </tr>
 </table>
 
-
----
-
 <div align="center">
+
+**MORE PROJECTS COMING SOON...**
+
+</div>
 
 ## 📊 GITHUB STATISTICS
 
