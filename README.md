@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="./assets/mmh-banner.png"
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,9,12&height=220&section=header&text=MMH&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mohammad%20Mehdi%20Hasanlou&descAlignY=60&descAlign=50"
        width="100%"
-       alt="MMH Developer Banner">
+       alt="MMH Animated Header">
 </div>
 
 # 👾 MMH — Mohammad Mehdi Hasanlou
