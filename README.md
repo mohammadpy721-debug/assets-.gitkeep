@@ -1,4 +1,8 @@
-# 👾 MMH — Mohammad Mehdi Hasanlou
+<div align="center">
+  <img src="./assets/mmh-banner.jpg"
+       width="100%"
+       alt="MMH Developer Banner">
+</div># 👾 MMH — Mohammad Mehdi Hasanlou
 
 <div align="center">
 
