@@ -284,9 +284,9 @@ A modern beauty e-commerce experience focused on elegant design and shopping fun
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohammadpy721-debug&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C084FC&text_color=FFFFFF&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohammadpy721-debug&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C084FC&text_color=FFFFFF&rank_icon=github&include_all_commits=true&cache_seconds=3600" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadpy721-debug&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadpy721-debug&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8&cache_seconds=3600" />
 
 <br/>
 
