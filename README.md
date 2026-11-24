@@ -75,6 +75,24 @@ I enjoy turning ideas into modern, functional and beautiful applications.
 
 ## ⚡ TECHNOLOGY ARSENAL | جعبه ابزار من
 
+<div align="center">
+
+# ⚡ MMH TECH ARSENAL
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" />
+
+### ⚙️ Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=django,react,bootstrap,tailwind&theme=dark" />
+
+### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,figma&theme=dark" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres&theme=dark" />
+
+</div>
+
 ### Languages & Frameworks
 
 <img src="https://skillicons.dev/icons?i=python,django,html,css,js,react,git,github,vscode&theme=dark&perline=5" />
