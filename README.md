@@ -8,7 +8,6 @@
 
 <div align="center">
 
-<img src="YOUR_BANNER_URL" width="100%" alt="MMH Cyberpunk Banner"/>
 
 <br/>
 
@@ -16,9 +15,9 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=7c3aed&label=FOLLOWERS)](https://github.com/YOUR_USERNAME)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=9333ea&label=STARS)](https://github.com/YOUR_USERNAME?tab=repositories)
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/mohammadpy721-debug?style=for-the-badge&logo=github&color=7c3aed&label=FOLLOWERS)](https://github.com/mohammadpy721-debug)
+[![GitHub stars](https://img.shields.io/github/stars/mohammadpy721-debug?style=for-the-badge&logo=github&color=9333ea&label=STARS)](https://github.com/mohammadpy721-debug?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=mohammadpy721-debug&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
 </div>
 
