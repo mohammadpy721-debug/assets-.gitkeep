@@ -202,6 +202,20 @@ A modern beauty e-commerce experience focused on elegant design and shopping fun
 
 </div>
 
+## 💬 QUOTE OF THE DAY | جمله‌ی روز
+
+<div align="center">
+
+<!-- QUOTE:START -->
+> "Make it work, make it right, make it fast."
+>
+> — *Kent Beck*
+<!-- QUOTE:END -->
+
+</div>
+
+---
+
 ## 🏆 ACHIEVEMENTS | دستاوردها
 
 <div align="center">
