@@ -202,6 +202,18 @@ A modern beauty e-commerce experience focused on elegant design and shopping fun
 
 </div>
 
+## 🔭 CURRENTLY | در حال حاضر
+
+<div align="center">
+
+- 🌐 در حال طراحی و توسعه‌ی سایت‌های مدرن و کاربردی
+- 🐍 یادگیری و کار با پایتون و جنگو
+- 🎨 بهبود تجربه‌ی کاربری و طراحی رابط
+
+</div>
+
+---
+
 ## 📊 GITHUB STATISTICS
 
 <div align="center">
