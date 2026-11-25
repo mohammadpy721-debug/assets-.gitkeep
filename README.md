@@ -1,21 +1,21 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)"
-            srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,9,12&height=220&section=header&text=MMH&fontSize=80&fontColor=1e1b4b&animation=fadeIn&fontAlignY=38&desc=Mohammad%20Mehdi%20Hasanlou&descAlignY=60&descAlign=50">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,9,12&height=220&section=header&text=MMH&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mohammad%20Mehdi%20Hasanlou&descAlignY=60&descAlign=50"
+            srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,9,12&height=220&section=header&text=MMH&fontSize=80&fontColor=1e1b4b&animation=fadeIn&fontAlignY=38&desc=Mohammad%20Mahdi%20Hasanlou&descAlignY=60&descAlign=50">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,9,12&height=220&section=header&text=MMH&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mohammad%20Mahdi%20Hasanlou&descAlignY=60&descAlign=50"
          width="100%"
          alt="MMH Animated Header">
   </picture>
 </div>
 
-# 👾 MMH — Mohammad Mehdi Hasanlou
+# 👾 MMH — Mohammad Mahdi Hasanlou
 
 <div align="center">
 
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=27&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=650&lines=HELLO+WORLD!;I'M+MOHAMMAD+MEHDI;FULL+STACK+WEB+DEVELOPER;BUILDING+THE+FUTURE+WITH+CODE;DREAM+BIG.+CODE+SMART." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=27&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=650&lines=HELLO+WORLD!;I'M+MOHAMMAD+MAHDI;FULL+STACK+WEB+DEVELOPER;BUILDING+THE+FUTURE+WITH+CODE;DREAM+BIG.+CODE+SMART." alt="Typing SVG"/>
 
 <br/>
 
@@ -39,7 +39,7 @@
 
 ### 🇬🇧 English
 
-Hey! I'm **Mohammad Mehdi Hasanlou**, a developer passionate about technology, web development and creative digital experiences.
+Hey! I'm **Mohammad Mahdi Hasanlou**, a developer passionate about technology, web development and creative digital experiences.
 
 I enjoy turning ideas into modern, functional and beautiful applications.
 
