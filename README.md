@@ -104,155 +104,66 @@ I enjoy turning ideas into modern, functional and beautiful applications.
 
 ## 💜 FEATURED PROJECTS | پروژه‌های منتخب
 
-
 <div align="center">
-
-# 🚀 FEATURED PROJECTS
-### Selected Works by MMH
-
-</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🌐 MMH PORTFOLIO</h3>
+<h3 align="center">✋ HAND DIGITS</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PROJECT-PORTFOLIO-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-MediaPipe-a855f7?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
 
-A modern personal portfolio website showcasing skills, projects and developer identity.
+با انگشت عدد نشون بده و با انگشت اشاره در هوا حرف بنویس. تشخیص با MediaPipe و تشخیص‌دهنده‌ی حرکت، با حالت بازی و یادگیری از اصلاحات.
 
-**Tech:** HTML · CSS · JavaScript
-
-<p align="center">
-<a href="https://github.com/mohammadpy721-debug/MMH-Portfolio">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github"/>
-</a>
-</p>
+<p align="center"><a href="https://github.com/mohammadpy721-debug/hand-digits">📂 Source</a></p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🔐 MANA VPN</h3>
+<h3 align="center">⚡ IMAGE FORGE</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PROJECT-VPN-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-Canvas-7c3aed?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
 
-A Python-based VPN service management project with Telegram bot integration.
+فشرده‌سازی و تبدیل عکس داخل مرورگر، بدون آپلود. خروجی WebP، JPEG یا PNG، با اسلایدر مقایسه‌ی قبل و بعد.
 
-**Tech:** Python · Telegram Bot
-
-<p align="center">
-<a href="https://github.com/mohammadpy721-debug/MANA-VPN">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github"/>
-</a>
-</p>
+<p align="center"><a href="https://github.com/mohammadpy721-debug/image-forge">📂 Source</a></p>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🏋️ PRO FIT</h3>
+<h3 align="center">⬛ QR STUDIO</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PROJECT-FITNESS-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-QR-22d3ee?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
 
-A fitness platform for workout tracking, training management and health-focused tools.
+ساخت کد QR با رنگ دلخواه، اندازه و سطح تصحیح خطا. دانلود به‌صورت PNG.
 
-**Tech:** HTML · Tailwind CSS · JavaScript
-
-<p align="center">
-<a href="https://github.com/mohammadpy721-debug/PRO-FIT">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github"/>
-</a>
-</p>
+<p align="center"><a href="https://github.com/mohammadpy721-debug/qr-studio">📂 Source</a></p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">💄 NAZ BEAUTY</h3>
+<h3 align="center">🧠 QUANTUMAI</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PROJECT-E--COMMERCE-DB2777?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-AST%20%2B%20OpenAI-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-A modern beauty e-commerce experience focused on elegant design and shopping functionality.
+بررسی خودکار کد پایتون با تحلیل AST، پیدا کردن الگوهای پرخطر، و ساخت README کامل با کمک OpenAI.
 
-**Tech:** Django · JavaScript · CSS
-
-<p align="center">
-<a href="https://github.com/mohammadpy721-debug/NAZ-BEAUTY">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github"/>
-</a>
-</p>
+<p align="center"><a href="https://github.com/mohammadpy721-debug/quantumi">📂 Source</a></p>
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-**MORE PROJECTS COMING SOON...**
-
-</div>
-
-## 💬 QUOTE OF THE DAY | جمله‌ی روز
-
-<div align="center">
-
-<!-- QUOTE:START -->
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
->
-> — *Martin Fowler*
-<!-- QUOTE:END -->
-
-</div>
-
----
-
-## 🏆 ACHIEVEMENTS | دستاوردها
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PROJECTS-4_Featured-9333EA?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/STACK-Python_%26_Django-7c3aed?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/FOCUS-UI%2FUX-A855F7?style=for-the-badge&logo=figma"/>
-
-</div>
-
----
-
-## ❓ FAQ | سؤال و جواب
-
-<details>
-<summary><b>چطور می‌تونم باهات همکاری کنم؟</b></summary>
-
-از طریق ایشوها یا پول‌ریکوئست در ریپوهام، یا پیام مستقیم در گیت‌هاب.
-
-</details>
-
-<details>
-<summary><b>روی چه تکنولوژی‌هایی کار می‌کنی؟</b></summary>
-
-بیشتر پایتون، جنگو، و طراحی رابط با HTML، CSS و JavaScript.
-
-</details>
-
----
-
-## 🔭 CURRENTLY | در حال حاضر
-
-<div align="center">
-
-- 🌐 در حال طراحی و توسعه‌ی سایت‌های مدرن و کاربردی
-- 🐍 یادگیری و کار با پایتون و جنگو
-- 🎨 بهبود تجربه‌ی کاربری و طراحی رابط
 
 </div>
 
