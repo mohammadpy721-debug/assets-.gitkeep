@@ -118,7 +118,7 @@ I enjoy turning ideas into modern, functional and beautiful applications.
 
 با انگشت عدد نشون بده و با انگشت اشاره در هوا حرف بنویس. تشخیص با MediaPipe و تشخیص‌دهنده‌ی حرکت، با حالت بازی و یادگیری از اصلاحات.
 
-<p align="center"><a href="https://github.com/mohammadpy721-debug/hand-digits">📂 Source</a></p>
+<p align="center"><a href="https://mohammadpy721-debug.github.io/hand-digits/">🌐 Live site</a></p>
 
 </td>
 <td width="50%" valign="top">
@@ -131,7 +131,7 @@ I enjoy turning ideas into modern, functional and beautiful applications.
 
 فشرده‌سازی و تبدیل عکس داخل مرورگر، بدون آپلود. خروجی WebP، JPEG یا PNG، با اسلایدر مقایسه‌ی قبل و بعد.
 
-<p align="center"><a href="https://github.com/mohammadpy721-debug/image-forge">📂 Source</a></p>
+<p align="center"><a href="https://mohammadpy721-debug.github.io/image-forge/">🌐 Live site</a></p>
 
 </td>
 </tr>
@@ -146,7 +146,7 @@ I enjoy turning ideas into modern, functional and beautiful applications.
 
 ساخت کد QR با رنگ دلخواه، اندازه و سطح تصحیح خطا. دانلود به‌صورت PNG.
 
-<p align="center"><a href="https://github.com/mohammadpy721-debug/qr-studio">📂 Source</a></p>
+<p align="center"><a href="https://mohammadpy721-debug.github.io/qr-studio/">🌐 Live site</a></p>
 
 </td>
 <td width="50%" valign="top">
